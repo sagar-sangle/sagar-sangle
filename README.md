@@ -42,7 +42,7 @@ I am a     -> Full Stack Developer | Game Developer | Epistemophile <img src="ht
 
 - :zap: In my free time, I work on my projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linked-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://in.linkedin.com/in/sagar-sangle-b6b095261?trk=people-guest_people_search-card))
+<!--- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linked-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/sangle-sagar]([https://in.linkedin.com/in/sagar-sangle-b6b095261?trk=people-guest_](https://www.linkedin.com/in/sangle-sagar)people_search-card))-->
   ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
